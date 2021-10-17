@@ -28,6 +28,6 @@ public class MainActivity extends AppCompatActivity {
         webView.setWebViewClient(new WebViewClient());
 
         webView.getSettings().setJavaScriptEnabled(true);
-        webView.loadUrl(getResources().getString(R.string.url));
+        webView.loadUrl(BuildConfig.SITE_URL);
     }
 }
