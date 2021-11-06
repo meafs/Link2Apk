@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+NAME=$(cat info.txt | awk -F'=' '/NAME/{print $2}')
+URL=$(cat info.txt | awk -F'=' '/URL/{print $2}')
+
+sed -i "s|https://google.com|$URL|g" app/build.gradle
+sed -i "s/MY APP NAME/$NAME/g" app/build.gradle
+
