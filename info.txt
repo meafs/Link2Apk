@@ -1,2 +1,2 @@
 NAME=abrar
-URL=https://google.com
+URL=https://fuadmusic.com/
