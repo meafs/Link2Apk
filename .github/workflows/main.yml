@@ -25,7 +25,7 @@ jobs:
       with:
         java-version: 11
     - name: Grant execute permission for gradlew
-      run: chmod +x gradlew && chmod +x changeInfo && ./chnageInfo
+      run: chmod +x gradlew && chmod +x changeInfo && ./changeInfo
     - name: Build with Gradle
       run: ./gradlew packageDebugUniversalApk
     - name: Get app version
