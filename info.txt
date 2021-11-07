@@ -1,2 +1,2 @@
-NAME=abrar
-URL=https://fuadmusic.com/
+NAME=Abrar
+URL=https://khacha.com.bd/
