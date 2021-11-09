@@ -23,7 +23,7 @@ android {
 
         debug {
             buildConfigField "String", "SITE_URL", "\"https://google.com\""
-            buildConfigField "String", "APP_NAME", "\"MY APP NAME\""
+            manifestPlaceholders = [APP_NAME: "MY APP NAME"]
         }
 
         release {
