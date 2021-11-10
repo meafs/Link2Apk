@@ -1,2 +1,2 @@
-NAME=OneGoodAppName
-URL=https://google.com/
+NAME=Evaly
+URL=https://github.com
