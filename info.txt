@@ -1,2 +1,2 @@
-NAME=Evaly
-URL=https://github.com
+NAME=ZDNet
+URL=https://www.zdnet.com/
