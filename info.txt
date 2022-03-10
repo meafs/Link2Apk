@@ -1,2 +1,2 @@
-NAME=ZDNet
-URL=https://www.zdnet.com/
+NAME=Abrar's Space
+URL=https://abrarfahim.com
